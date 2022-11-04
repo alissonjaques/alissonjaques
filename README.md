@@ -23,3 +23,9 @@
 
 ## ⭐ Information about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alissonjaques&show_icons=true)
+<div>
+  <a href="https://github.com/alexfelipe">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonjaques&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonjaques&show_icons=true&theme=radical" />
+  </a>
+</div>
