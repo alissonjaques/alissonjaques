@@ -2,7 +2,7 @@
 
 > Bachelor in Computer Engineering from the State University of Minas Gerais. Technology and science lover. My main objective is to master the technologies of professional software development and database manipulation.
 
-----
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 ## 🚀 My Skills
 
