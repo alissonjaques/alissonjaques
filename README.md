@@ -21,5 +21,5 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alissonjaques&show_icons=true)
