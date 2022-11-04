@@ -19,7 +19,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" alt="github"/></code>
 
 ---
 
@@ -30,3 +29,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonjaques&show_icons=true&theme=radical" />
   </a>
 </div>
+
+---
+
+## If you want to know more about me, follow me on my social medias:
+
+<a href="www.linkedin.com/in/alisson-jaques-b2229a6b
+"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
