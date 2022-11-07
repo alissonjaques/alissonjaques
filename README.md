@@ -25,7 +25,7 @@
 
 ## ⭐ Information about my GitHub account
 <div>
-  <a href="https://github.com/AlissonJaquesLocX">
+  <a href="https://github.com/alissonjaques">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonjaques&layout=compact&theme=radical" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonjaques&show_icons=true&theme=radical" />
   </a>
