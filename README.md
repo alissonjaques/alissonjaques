@@ -30,15 +30,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonjaques&show_icons=true&theme=radical" />
   </a>
 </div>
-
-<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
-
-## 📈 Activity
-<div>
-  <a href="https://github.com/alissonjaques">   
-    <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=alissonjaques&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=alissonjaques%20Contribution%20Graph" />
-  </a>
-</div>
   
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
