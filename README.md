@@ -32,9 +32,3 @@
 </div>
   
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
-
-## Follow me on my social medias:
-<div>
-  <a href="https://www.linkedin.com/in/alisson-jaques-b2229a6b"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
