@@ -1,6 +1,6 @@
 ## 💜 Hello, my name is <strong>Alisson Jaques!</strong> 🔭
 
-> Bachelor in Computer Engineering from the State University of Minas Gerais. Technology and science lover. My main objective is to master the technologies of professional software development and database manipulation.
+> Bachelor in Computer Engineering from the State University of Minas Gerais. Technology and science lover. My main objective is to master the technologies of professional software development and database manipulation. I'm always looking for opportunities to apply my knowledge and skills, facing new challenges and contributing to the success of innovative projects. I am passionate about technology and believe that systems development can positively transform the way people live and work.
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
